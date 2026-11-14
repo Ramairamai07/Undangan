@@ -7,7 +7,7 @@
  *   Ucapan -> ID | Waktu | Nama | Ucapan
  *   Tamu   -> ID | Nama
  */
-const ADMIN_PASSWORD = 'Karincantik04'; // Kata sandi dasbor admin. Tersimpan di sini, bukan di index.html.
+const ADMIN_PASSWORD = 'Karin'; // Kata sandi dasbor admin. Tersimpan di sini, bukan di index.html.
 
 const HEADERS = {
   RSVP: ['Waktu', 'Nama', 'Status', 'Jumlah', 'Pesan'],
